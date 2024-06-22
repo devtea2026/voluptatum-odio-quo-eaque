@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/voluptatum-odio-quo-eaque",
-  "version": "5.6.41",
+  "version": "5.6.42",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -62,5 +62,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/voluptatum-odio-quo-eaque/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
